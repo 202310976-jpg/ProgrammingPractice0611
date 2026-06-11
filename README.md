@@ -6,7 +6,7 @@ FlexiRoutine Pro: 관절 가동성 기반 맞춤형 스트레칭 처방 웹앱
 
 개발 환경: React (Tailwind CSS, LocalStorage API)
 
-실행 및 배포 링크: https://gemini.google.com/share/4b410896f0c9
+## 실행 및 배포 링크: https://gemini.google.com/share/4b410896f0c9
 
 # 1. 문제 정의
 
